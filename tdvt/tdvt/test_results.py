@@ -143,6 +143,7 @@ class TestResult(object):
             <value></value>
             </tuple>
             </table>
+            </test>
             </results>
 
         """
